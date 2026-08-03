@@ -1,4 +1,4 @@
-# 🧪 Laboratorio 3 — Opción D: GitHub + Vercel (✅ 100% Gratuita)
+# 🧪 Laboratorio 3 — Opción D: GitHub + Vercel 
 
 ## 📋 Descripción General
 
