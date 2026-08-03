@@ -1,5 +1,6 @@
 # 🧪 Laboratorio 3 — Opción D: GitHub + Vercel 
 Link video: https://youtu.be/eAs7Y5kchsc 
+Link Vercel: https://lab3-compis.vercel.app
 
 ## 📋 Descripción General
 
