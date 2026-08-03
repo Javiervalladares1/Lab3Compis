@@ -1,0 +1,24 @@
+# Local credentials
+program/.env
+.env
+.env.local
+
+# Vercel project link
+.vercel/
+
+# ANTLR-generated Python sources
+program/SiteLangLexer.py
+program/SiteLangParser.py
+program/SiteLangListener.py
+program/SiteLangVisitor.py
+program/SiteLang.tokens
+program/SiteLang.interp
+program/SiteLangLexer.tokens
+program/SiteLangLexer.interp
+program/.antlr/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
